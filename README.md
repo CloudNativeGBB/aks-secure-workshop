@@ -2,7 +2,11 @@
 
 Textbook: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks
 
-Playlist: https://www.youtube.com/playlist?list=PLKFaWBYMOdDvE5tjP8qzcZOgAo7-ONhd8
+Playlist: https://aka.ms/aks-secure-baseline-playlist
+
+To comment, request new content or submit an issue - please file a [GitHub Issue](https://github.com/CloudNativeGBB/aks-secure-workshop/issues).  Comments have been disabled on YouTube.  
+
+Thanks and enjoy!
 
 ## Day 1:
 ### Videos and Reading Material:
