@@ -1,4 +1,4 @@
-# Advanced Kubernetes Session syllabus
+# AKS Secure Workshop Syllabus
 
 Textbook: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks
 
