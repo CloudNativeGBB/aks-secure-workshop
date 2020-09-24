@@ -8,6 +8,17 @@ To comment, request new content or submit an issue - please file a [GitHub Issue
 
 Thanks and enjoy!
 
+## Overview
+
+This workshop is designed to be an Advanced Workshop (as of Sept. 2020).  It is not designed to learn what Kubernetes, containers (i.e. Docker) or "Cloud Native Computing" is.  It is assumed that these ideas/concepts have already been introduced to you.  If you wish for more introductory content please refer to "[Other Workshop and Content](other-workshops-and-content.md)".
+
+### What this workshop is **NOT**
+- An intro to:
+  - Docker
+  - Kubernetes
+  - Bash
+  - "[Cloud Native Computing](https://github.com/cncf/foundation/blob/master/charter.md#1-mission-of-the-cloud-native-computing-foundation)"
+
 ## Day 1:
 ### Videos and Reading Material:
 Azure Kubernetes Service Production Baseline: Intro - https://youtu.be/-Hjyqxn1cqI 
