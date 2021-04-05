@@ -60,10 +60,11 @@ o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/co
 o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#use-infrastructure-as-code-iac
 o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#workload-cicd
 o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-cicd
-                        Operations:
-                        Cluster and workload CI/CD pipelines
+
+### Operations:
+Cluster and workload CI/CD pipelines
 -	Video: https://youtu.be/bL3lR8OzWrw 
--	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-and-workload-operations-devops                               
+-	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-and-workload-operations-devops           
 
 ### Identity Management:
 Integrate Azure AD for the cluster and Integrate Azure AD for the workload
@@ -94,7 +95,7 @@ Cluster health and metrics
 -	Reading: 
 o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#monitor-and-collect-metrics
 
-                        Cost management and reporting:
+### Cost management and reporting:
 -	Video: https://youtu.be/F6xhcLTQfe0 
 -	Reading:
 o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cost-management 
