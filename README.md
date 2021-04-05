@@ -38,7 +38,6 @@ Network topology:
 
 Note: You will only deploy the Ingress controller at a later step but the video and reading material will provide a foundation of how and why we are using them.
 
-                        Secure Data Flow:
 ### Secure the network flow:
 -	Video: https://youtu.be/9IE6weAOBqI 
 -	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#secure-the-network-flow 
