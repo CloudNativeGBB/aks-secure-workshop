@@ -56,12 +56,12 @@ https://github.com/mspnp/aks-secure-baseline/blob/main/04-networking.md
 Compute for the base cluster (configure compute for the base cluster):
 -	Video: https://youtu.be/NTJmaLpUHgw 
 -	Reading: 
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#configure-compute-for-the-base-cluster   
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#use-infrastructure-as-code-iac
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#workload-cicd
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-cicd
-                        Operations:
-                        Cluster and workload CI/CD pipelines
+    -	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#configure-compute-for-the-base-cluster
+    -	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#use-infrastructure-as-code-iac
+    -	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#workload-cicd
+    -	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-cicd
+
+### Operations: Cluster and workload CI/CD pipelines
 -	Video: https://youtu.be/bL3lR8OzWrw 
 -	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cluster-and-workload-operations-devops                               
 
@@ -69,14 +69,13 @@ o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/co
 Integrate Azure AD for the cluster and Integrate Azure AD for the workload
 -	Video: https://youtu.be/nQHemp3Y1C8 
 -	Reading: 
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#integrate-azure-active-directory-for-the-cluster  
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#integrate-azure-active-directory-for-the-workload 
+    - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#integrate-azure-active-directory-for-the-cluster  
+    - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#integrate-azure-active-directory-for-the-workload 
 
 ### Secure Data Flow:
 Add secret management:
 -	Video: https://youtu.be/TC3vpq8l7CM 
--	Reading: 
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#add-secret-management 
+-	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#add-secret-management 
 
 ### Labs:
 3. Deploying the cluster
@@ -91,13 +90,11 @@ https://github.com/mspnp/aks-secure-baseline#4-deploy-your-workload
 ### Operations:
 Cluster health and metrics
 -	Video: https://youtu.be/k-DDeAnuvFo 
--	Reading: 
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#monitor-and-collect-metrics
+-	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#monitor-and-collect-metrics
 
-                        Cost management and reporting:
+Cost management and reporting:
 -	Video: https://youtu.be/F6xhcLTQfe0 
--	Reading:
-o	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cost-management 
+-	Reading: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks#cost-management 
  
 ### Business continuity:
 Scalability:
